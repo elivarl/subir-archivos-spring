@@ -1,0 +1,29 @@
+1. afectacion contable
+2. transaccion nueva por deposito corresponsal 
+Poner IP, como campo de recepción.
+
+
+Janeth, Diego Mayra (Corresponsal Bancario)
+Viernes 8:00
+
+
+Proceso 
+dinero Fisico como llega a la coop
+Conversar la afectación contable
+
+-----------------------
+1 sola cuenta contable (por cobrar contra vista y cliente)
+
+
+Cuenta de banco de loja
+
+
+
+Buenos días estimad@s, 
+
+De acuerdo a la reunión mantenida hoy en la mañana, se adjunta a los puntos que se quedó:
+
+- Desarrollar la integración con facilito (para el corresponsal bancario) una vez migrada la parte de vista
+- Por parte de Janeth, definir y enviar a Michele la dinamica contable 
+- Definir el horario en el que va estar disponible el servicio (Mayra Carpio)
+- Una vez recibida esta información se estará gestionando con el proveedor el tema técnico para hacer pruebas en test hasta que se pueda salir a producción
